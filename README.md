@@ -1,2 +1,2 @@
 # Boomber
-bomberlike game
+bomberlike game created with using Dante
